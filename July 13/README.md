@@ -2,4 +2,4 @@ My inspiration for this project came from the shipping packaging of glasses. Tho
 The aspect of design which proved to be the greatest challenge for me was the base shape of the eye, as I used two Bézier curves to get the desired shape. Ultimately I used Desmos (graphing software) to map out the vertices and anchor points on a coordinate grid.
 
 
-![]()
+![](Eyes_sc.jpg)
