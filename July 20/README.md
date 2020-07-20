@@ -5,6 +5,6 @@ The updates to the game in this iteration include start and end screens, and sou
 
 The largest issue I had during the modification process was in making the game video interactive. My computer’s operating system was incompatible with the original Processing files however I was able to resolve some of the issues with forum based solutions. Ultimately, the user experience with the motion based controls was cumbersome and inconsistent so I reverted to the original mouse controls and it worked much more smoothly. I also had challenges making the game replayable and implemented a gameplay state tracker to switch between the modes.
 
-![]()
-![]()
-![]()
+![](StartScreen.png)
+![](GameScreen.png)
+![](EndScreen.png)
