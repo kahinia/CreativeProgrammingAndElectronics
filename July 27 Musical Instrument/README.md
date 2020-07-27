@@ -6,7 +6,7 @@ Going forward I would refine the control systems as the switches I have employed
 
 ![](IMG_8820.jpg)
 
-![]()
+![](IMG_0711.jpg)
 
 Video:
 
