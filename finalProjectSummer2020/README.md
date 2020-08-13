@@ -1,4 +1,4 @@
-#The Doodle Bot
+The Doodle Bot
 
 Final Project
 
