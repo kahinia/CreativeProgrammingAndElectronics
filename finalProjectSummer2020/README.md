@@ -2,19 +2,18 @@ The Doodle Bot
 
 Final Project
 
-![]() //picture
+![](IMG_0753.jpg)
 
 Translating a digital canvas to physical interpretation, this art robot combines Processing input and Arduino outputs to create a collaboration between user and robot. With a mouse controlled canvas, the robot moves by interpreting and responding to onscreen motion and applying its own signature as defined by the rules of the program. The robot can accomodate a variety of drawing and painting tools and bridges the realms of digital and physical art. 
 
-![]() //picture
+![](IMG_4468.JPG) 
 
 The robot itself is driven by two DC motors connected to Arduino and uses the drawing tool and a metal attachment as a caster. Drawing tools are secured by an adjustable elastic strap and connected at two points to the robot to ensure smooth and secure drawing. The electronics are contianed in the cardboard housing, designed to be adjustable and detachable for easy access to the components.
 
-![]() // art?
 
 The position change elements track and calculate the relative mouse position from previous frames and determine the movement of the robot. When determining these rules, the basic elements of arc and line drawing were emphasized rather than a an exact positional parallel to make the end result slightly abstract from the user inputs.
 
-![]() // electronics
+![](IMG_2876) // electronics
 
 ![]() //schematic
 
