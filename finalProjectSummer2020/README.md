@@ -1,4 +1,4 @@
-The Doodle Bot
+##The Doodle Bot
 
 Final Project
 
@@ -15,7 +15,7 @@ The position change elements track and calculate the relative mouse position fro
 
 ![](IMG_2876.jpg)
 
-![]()
+![](IMG_8836.JPG)
 
 Video
 
