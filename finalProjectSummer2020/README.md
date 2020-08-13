@@ -13,7 +13,7 @@ The robot itself is driven by two DC motors connected to Arduino and uses the dr
 
 The position change elements track and calculate the relative mouse position from previous frames and determine the movement of the robot. When determining these rules, the basic elements of arc and line drawing were emphasized rather than a an exact positional parallel to make the end result slightly abstract from the user inputs.
 
-![](IMG_2876) // electronics
+![](IMG_2876.jpg) // electronics
 
 ![]() //schematic
 
