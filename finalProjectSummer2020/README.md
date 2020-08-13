@@ -19,7 +19,7 @@ The position change elements track and calculate the relative mouse position fro
 
 Video
 
-https://youtu.be/AufP_CNzHyM
+https://youtu.be/4gvY8byn2T4
 
 The greatest challenge in making this robot was in creating communicative and responsive programs. Using the tools and resources below I was able to connect the Processing inputs and Arduino outputs in an instantly responsive programs and build the robot itself.
 
